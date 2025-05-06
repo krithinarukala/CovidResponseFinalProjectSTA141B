@@ -1,5 +1,3 @@
-# CovidResponseFinalProjectSTA141B
-Analysis of Public Response to COVID in EU
 # <center>Covid Forecasts in Europe</center>
 ### <center>STA 141B Final Project Winter 2022</center>
 #### <center>Group 28: Emily Tran, Ranjosh Waraich, & Krithin Arukala</center>
